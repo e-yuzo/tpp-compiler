@@ -1,2 +1,2 @@
 # tpp-compiler
-Simple compiler for TPP Lang.
+Simple compiler for fictional TPP (T++) programming language.
