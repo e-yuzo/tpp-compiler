@@ -1,4 +1,5 @@
 # Tools:
+    - Graphviz
     - LLVM 6.0.1
 # To execute:
     - python3 parser.py [path to .tpp file]
